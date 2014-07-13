@@ -1,0 +1,75 @@
+[14:38:04] [main/INFO]: Setting user: ForgeDevName
+[14:38:07] [Client thread/INFO]: LWJGL Version: 2.9.0
+[14:38:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Bloody Tinkerer
+[14:38:19] [Sound Library Loader/INFO]: Sound engine started
+[14:38:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[14:38:21] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[14:38:21] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Bloody Tinkerer
+[14:38:21] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[14:38:22] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[14:38:23] [Sound Library Loader/INFO]: Sound engine started
+[14:38:24] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[14:38:47] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
+[14:38:47] [Server thread/INFO]: Generating keypair
+[14:38:47] [Server thread/INFO]: Converting map!
+[14:38:47] [Server thread/INFO]: Scanning folders...
+[14:38:47] [Server thread/INFO]: Total conversion count is 0
+[14:38:48] [Server thread/INFO]: Preparing start region for level 0
+[14:38:49] [Server thread/INFO]: Preparing spawn area: 4%
+[14:38:50] [Server thread/INFO]: Preparing spawn area: 11%
+[14:38:51] [Server thread/INFO]: Preparing spawn area: 21%
+[14:38:52] [Server thread/INFO]: Preparing spawn area: 32%
+[14:38:53] [Server thread/INFO]: Preparing spawn area: 44%
+[14:38:54] [Server thread/INFO]: Preparing spawn area: 55%
+[14:38:55] [Server thread/INFO]: Preparing spawn area: 66%
+[14:38:56] [Server thread/INFO]: Preparing spawn area: 79%
+[14:38:57] [Server thread/INFO]: Preparing spawn area: 92%
+[14:38:59] [Server thread/INFO]: ForgeDevName[local:E:1b29e294] logged in with entity id 114 at (-58.5, 59.0, 255.5)
+[14:38:59] [Server thread/INFO]: ForgeDevName joined the game
+[14:39:00] [Skin downloader: http://skins.minecraft.net/MinecraftCloaks/ForgeDevName.png/ERROR]: Couldn't download http texture
+java.net.UnknownHostException: skins.minecraft.net
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:178) ~[?:1.7.0_10]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[?:1.7.0_10]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[?:1.7.0_10]
+	at java.net.Socket.connect(Socket.java:579) ~[?:1.7.0_10]
+	at java.net.Socket.connect(Socket.java:528) ~[?:1.7.0_10]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180) ~[?:1.7.0_10]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:378) ~[?:1.7.0_10]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:473) ~[?:1.7.0_10]
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:203) ~[?:1.7.0_10]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:290) ~[?:1.7.0_10]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:306) ~[?:1.7.0_10]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:995) ~[?:1.7.0_10]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:974) ~[?:1.7.0_10]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:849) ~[?:1.7.0_10]
+	at net.minecraft.client.renderer.ThreadDownloadImageData$1.run(ThreadDownloadImageData.java:87) [ThreadDownloadImageData$1.class:?]
+[14:39:00] [Skin downloader: http://skins.minecraft.net/MinecraftSkins/ForgeDevName.png/ERROR]: Couldn't download http texture
+java.net.UnknownHostException: skins.minecraft.net
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:178) ~[?:1.7.0_10]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157) ~[?:1.7.0_10]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391) ~[?:1.7.0_10]
+	at java.net.Socket.connect(Socket.java:579) ~[?:1.7.0_10]
+	at java.net.Socket.connect(Socket.java:528) ~[?:1.7.0_10]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180) ~[?:1.7.0_10]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:378) ~[?:1.7.0_10]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:473) ~[?:1.7.0_10]
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:203) ~[?:1.7.0_10]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:290) ~[?:1.7.0_10]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:306) ~[?:1.7.0_10]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:995) ~[?:1.7.0_10]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:974) ~[?:1.7.0_10]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:849) ~[?:1.7.0_10]
+	at net.minecraft.client.renderer.ThreadDownloadImageData$1.run(ThreadDownloadImageData.java:87) [ThreadDownloadImageData$1.class:?]
+[14:39:05] [Server thread/INFO]: ForgeDevName has just earned the achievement [Taking Inventory]
+[14:39:05] [Client thread/INFO]: [CHAT] ForgeDevName has just earned the achievement [Taking Inventory]
+[14:40:55] [Server thread/INFO]: Saving and pausing game...
+[14:40:55] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:40:55] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:40:55] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:40:56] [Server thread/INFO]: Stopping server
+[14:40:56] [Server thread/INFO]: Saving players
+[14:40:56] [Server thread/INFO]: Saving worlds
+[14:40:56] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:40:56] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:40:56] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:40:57] [Client thread/INFO]: Stopping!
